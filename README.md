@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bicipeng
-- 👀 I’m interested in becoming more skillful in app development.
-- 🌱 I’m currently learning data structures. 
+- 👀 I’m working as a software development engineer.
+- 🌱 I’m currently learning data engineer. 
 - 💞️ I’m looking to collaborate on fullstack projects. 
 - 📫 How to reach me bicipeng@gmail.com
 
